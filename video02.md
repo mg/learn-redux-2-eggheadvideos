@@ -1,7 +1,7 @@
 # Supplying the Initial State
 [Video](https://egghead.io/lessons/javascript-redux-supplying-the-initial-state)
 
-When creating the store, we can supply an initial state as a the last parameter.
+When creating the store, we can supply an initial state as the last parameter.
 
 ```js
 const myPersistedState= {
