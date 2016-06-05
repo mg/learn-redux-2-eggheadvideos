@@ -12,6 +12,8 @@ const mapStateToProps= (state, props) => ({
 ```
 
 #### App.jsx
+React Router injects ``params`` object into any component that handles a route.
+
 ```js
 const App= ({params}) =>
   <div>
