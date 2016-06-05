@@ -1,4 +1,4 @@
-# Simplify the Arrow Functions
+# Simplify the Arrow Function
 [Video](https://egghead.io/lessons/javascript-redux-simplifying-the-arrow-functions)
 
 #### 1. Return an Object Expression
